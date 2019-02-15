@@ -1,6 +1,13 @@
 # attention-based-neural-machine-translation
 利用RNN实现基于注意力的神经机器翻译
 
+法语->英语
+
+elle a cinq ans de moins que moi .
+
+->
+
+she is five years younger than me.
 
 采用编码器和解码器结构。
 
@@ -8,4 +15,4 @@
 
 输出翻译结果：
 
-![](https://raw.githubusercontent.com/zqs01/pic/master/11.png)
+![注意力权重图](https://raw.githubusercontent.com/zqs01/pic/master/11.png)
